@@ -1,0 +1,90 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1569064291817" stop="1569064382502">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1569064291817" status="passed" stop="1569064328308">
+      <description>
+        预期失败测试用例
+        :param case_num: 用例编号
+        :param name: 用户名
+        :param pwd: 密码
+        :param toast: toast 消息拼接语句
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_fail_login[test_login_005-17700001111-159357li-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13306-MainThread"/>
+        <label name="host" value="belledeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1569064328311" status="passed" stop="1569064345799">
+      <description>
+        预期失败测试用例
+        :param case_num: 用例编号
+        :param name: 用户名
+        :param pwd: 密码
+        :param toast: toast 消息拼接语句
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_fail_login[test_login_013-selenium-159357li-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13306-MainThread"/>
+        <label name="host" value="belledeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1569064345802" status="passed" stop="1569064364795">
+      <description>
+        预期失败测试用例
+        :param case_num: 用例编号
+        :param name: 用户名
+        :param pwd: 密码
+        :param toast: toast 消息拼接语句
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_fail_login[test_login_014-mlili-15935-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13306-MainThread"/>
+        <label name="host" value="belledeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1569064364796" status="passed" stop="1569064382502">
+      <description>
+        预期失败测试用例
+        :param case_num: 用例编号
+        :param name: 用户名
+        :param pwd: 密码
+        :param toast: toast 消息拼接语句
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_fail_login[test_login_015-mlili-15935159351593511-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13306-MainThread"/>
+        <label name="host" value="belledeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
